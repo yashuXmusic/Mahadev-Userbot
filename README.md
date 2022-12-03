@@ -58,7 +58,7 @@ Checkout Tutorial!
 Mahadev@UserBot~ $ apt-get -y update
 Mahadev@UserBot~ $ apt-get -y install git gcc python3-dev
 Mahadev@UserBot~ $ git clone https://github.com/yashuXmusic/Mahadev-UserBot
-Mahadev@UserBot~ $ cd Mahadev-UserBot
+Mahadev@UserBot~ $ cd Mahadev-Userbot
 Mahadev@UserBot~ $ pip3 install -U-r requirements.txt
 Mahadev@UserBot~ $ cp sample.env .env
 ```
