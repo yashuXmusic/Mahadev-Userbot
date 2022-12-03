@@ -92,9 +92,6 @@ and you ended up in a Finale Battle with Telegram and at the end
 
 ### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
 - Mahadev-UserBot
-- Man
-- pyrogram
-- xyz ⚡
 
 #
 
