@@ -8,18 +8,7 @@ OWNER_ID = int(getenv("OWNER_ID", "5956494225"))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://yashu:yashu@cluster0.knhecdn.mongodb.net/")
 BOT_TOKEN = getenv("BOT_TOKEN", "5873916822:AAHyRmuDM4uF-ufDwQbczEk3PxwrS8edIes")
 ALIVE_PIC = getenv("ALIVE_PIC", "https://telegra.ph//file/3fcc0832301bc28c384cb.jpg")
-ALIVE_TEXT = getenv("ALIVE_TEXT", "🖤 𝗢𝗙𝗙𝗜𝗖𝗔𝗟 𝗔𝗖𝗖𝗢𝗨𝗡𝗧 🖤
- Wɪsʜ ᴍᴇ ᴏɴ 31ᴅᴇᴄ 💝
-
-⚡ Mʏ ʟɪғᴇ ᴍʏ ʀᴜʟᴇs 💪
-
-🎶 Mᴜsɪᴄ ᴍᴀ ᴅɪᴡᴀɴᴀ🎵
-
-🔱 Mᴀʜᴀᴅᴇᴠ ᴋᴀ ʟᴀᴅʟᴀ 🔱
-
-❤️ ɪ ᴀᴍ sɪᴍᴘʟᴇ ʙᴏʏ ❤️ 
-
-😇 Gɪʀʟ ɴᴏᴛ ᴅᴍ ᴍᴇ ᴡɪᴛʜᴏᴜᴛ ᴘᴇʀᴍɪᴛɪᴏɴ 😇")
+ALIVE_TEXT = getenv("ALIVE_TEXT", "🖤 𝗢𝗙𝗙𝗜𝗖𝗔𝗟 𝗔𝗖𝗖𝗢𝗨𝗡𝗧 Mᴀʜᴀᴅᴇᴠ UsᴇʀBᴏᴛ 🖤")
 
 PM_LOGGER = getenv("PM_LOGGER", "-1001236143586")
 LOG_GROUP = getenv("LOG_GROUP", "-1001236143586")
