@@ -9,8 +9,7 @@ MONGO_URL = getenv("MONGO_URL", "mongodb+srv://yashu:yashu@cluster0.knhecdn.mong
 BOT_TOKEN = getenv("BOT_TOKEN", "5873916822:AAHyRmuDM4uF-ufDwQbczEk3PxwrS8edIes")
 ALIVE_PIC = getenv("ALIVE_PIC", "https://telegra.ph//file/3fcc0832301bc28c384cb.jpg")
 ALIVE_TEXT = getenv("ALIVE_TEXT", "🖤 𝗢𝗙𝗙𝗜𝗖𝗔𝗟 𝗔𝗖𝗖𝗢𝗨𝗡𝗧 🖤
-
-🥳 Wɪsʜ ᴍᴇ ᴏɴ 31ᴅᴇᴄ 💝
+ Wɪsʜ ᴍᴇ ᴏɴ 31ᴅᴇᴄ 💝
 
 ⚡ Mʏ ʟɪғᴇ ᴍʏ ʀᴜʟᴇs 💪
 
@@ -20,15 +19,8 @@ ALIVE_TEXT = getenv("ALIVE_TEXT", "🖤 𝗢𝗙𝗙𝗜𝗖𝗔𝗟 𝗔𝗖�
 
 ❤️ ɪ ᴀᴍ sɪᴍᴘʟᴇ ʙᴏʏ ❤️ 
 
-😇 Gɪʀʟ ɴᴏᴛ ᴅᴍ ᴍᴇ ᴡɪᴛʜᴏᴜᴛ ᴘᴇʀᴍɪᴛɪᴏɴ 😇
+😇 Gɪʀʟ ɴᴏᴛ ᴅᴍ ᴍᴇ ᴡɪᴛʜᴏᴜᴛ ᴘᴇʀᴍɪᴛɪᴏɴ 😇")
 
-•||•_● 𝐌ʏ_𝐋ᴏᴠᴇ :  BEST FRIEND ___❤️‍🩹
-
-•●─𝐎ᴡɴᴇʀ : @Null_Coder_Bot |─''💌
-
-Your name : {mention}
-
-STURDY GROUP : @INDIAN_STUDY_WARRIORS")
 PM_LOGGER = getenv("PM_LOGGER", "-1001236143586")
 LOG_GROUP = getenv("LOG_GROUP", "-1001236143586")
 
