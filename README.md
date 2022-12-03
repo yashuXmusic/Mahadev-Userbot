@@ -14,7 +14,7 @@
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=yashuXmusic&repo=Mahadev-UserBot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=yashuXmusic&repo=Mahadev-Userbot&theme=dark)
 
 
 
